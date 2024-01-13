@@ -1,4 +1,4 @@
-Merhaba, Ben Baki TEKİN 👋 
+## Merhaba, Ben Baki TEKİN 👋 
 
 ## Hakkımda
 
@@ -30,4 +30,5 @@ Merhaba, Ben Baki TEKİN 👋
 ## Hedefler
 
 🎯 Kendimi geliştirmek ve yeni teknolojilere hakim olmak için çabalıyorum.
+
 👨‍💻✨ Üretmeyi ve yararlı projeler yapmayı seviyorum.
