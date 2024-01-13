@@ -16,5 +16,5 @@
 # Sertifikalar
 🏆 Udemig Serfikası
 # Hedefler
-🎯 Kendimi geliştirmek ve yeni teknolojilere hakim olmak için çabalıyorum.
-👨‍💻✨ Üretmeyi ve yararlı projeler yapmayı seviyorum.
+-🎯 Kendimi geliştirmek ve yeni teknolojilere hakim olmak için çabalıyorum.
+-👨‍💻✨ Üretmeyi ve yararlı projeler yapmayı seviyorum.
