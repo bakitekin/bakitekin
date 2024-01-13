@@ -8,13 +8,8 @@
 - 🌐 **Web Teknolojileri:** JavaScript (ES6+), RESTful API'lar
 # Projelerimi profil sayfamdan inceleyebilirsiniz
 👇 https://github.com/bakitekin?tab=repositories
-# İletişim
-📫 Benimle iletişime geçmek isterseniz:
-- LinkedIn https://www.linkedin.com/in/fxsoldier/
-- Twitter-X https://twitter.com/Fx_SoldieRR
-- Email fxsoldierr@gmail.com
 # Sertifikalar
-🏆 Udemig Serfikası
+🏆 Udemig Serfikası *EKLENECEK
 # Hedefler
 - 🎯 Kendimi geliştirmek ve yeni teknolojilere hakim olmak için çabalıyorum.
 - 👨‍💻✨ Üretmeyi ve yararlı projeler yapmayı seviyorum.
