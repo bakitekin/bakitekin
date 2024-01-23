@@ -1,11 +1,9 @@
-## Merhaba, Ben Baki TEKİN 👋 
-# Hakkımda
-🚀 Merhaba, ben Baki TEKİN, bir React Front-End ve React Native Mobil Geliştiricisiyim. Kod yazmayı ve yaratıcı çözümler bulmayı seviyorum.
-# Becerilerim
+Merhaba, Ben Baki TEKİN 👋 
+🚀 Merhaba, ben Baki TEKİN,  Full Stack Developer'ım= React Front-End React Native Mobil ve Backend Geliştiricisiyim. Kod yazmayı ve yaratıcı çözümler bulmayı seviyorum.
 - 💻 **Front-End Geliştirme:** React, Redux, HTML, CSS
 - 📱 **Mobil Geliştirme:** React Native
+- ⚙️ **Backend-NodeJs
 - ⚙️ **Araçlar ve Teknolojiler:** Git, Webpack, Babel
 - 🌐 **Web Teknolojileri:** JavaScript (ES6+), RESTful API'lar
-# Hedefler
 - 🎯 Kendimi geliştirmek ve yeni teknolojilere hakim olmak için çabalıyorum.
 - 👨‍💻✨ Üretmeyi ve yararlı projeler yapmayı seviyorum.
